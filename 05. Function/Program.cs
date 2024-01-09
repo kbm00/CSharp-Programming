@@ -17,7 +17,7 @@
             Console.WriteLine($"Input : {left}, {right}");
             int result = left + right;
             Console.WriteLine($"Output : {result}");
-            return result;
+            return result; 
         }
 
 
