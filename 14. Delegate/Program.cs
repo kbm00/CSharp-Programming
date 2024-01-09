@@ -26,7 +26,7 @@
         // 반환형과 매개변수가 일치하는 함수를 델리게이트 변수에 할당
         // 델리게이트 변수에 참조한 함수를 대리자를 통해 호출 가능
         void Main1()
-        {
+        { 
             DelegateMethod1 delegate1 = new DelegateMethod1(Plus);  // 델리게이트 인스턴스 생성
             DelegateMethod2 delegate2 = Message;                    // 간략한 문법의 델리게이트 인스턴스 생성
 

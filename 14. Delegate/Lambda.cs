@@ -32,7 +32,7 @@ namespace _14._Delegate
             func = delegate (string str) { return str.Length; };
 
 
-            // <람다식>
+            // <람다식> 
             // 무명메서드의 간단한 표현식
             func = (str) => { return str.Length; };
             func = str => str.Length;

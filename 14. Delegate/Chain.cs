@@ -28,7 +28,7 @@ namespace _14._Delegate
 
             action -= Func1;    // 델리게이트 인스턴스에 Func1 참조 제거
             if (action != null) // 델리게이트 인스턴스에서 참조를 제거할 경우 참조하고 있는 함수가 없는 경우를 조심
-                action();       // Func2, Func3 이 호출됨
+                action();       // Func2, Func3 이 호출됨 
 
             action += Func2;    // 같은 함수를 여러번 참조한 경우 여러번 호출됨
             action += Func2;

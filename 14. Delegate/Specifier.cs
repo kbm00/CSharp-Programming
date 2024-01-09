@@ -28,7 +28,7 @@ namespace _14._Delegate
             int index3 = CountIf(array, value => value > 5);    // 배열 중 값이 5보다 큰 데이터 갯수
         }
 
-        public static int CountIf(int[] array, Predicate<int> predicate)
+        public static int CountIf(int[] array, Predicate<int> predicate) 
         {
             int count = 0;
 

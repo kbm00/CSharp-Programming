@@ -22,7 +22,7 @@ namespace _14._Delegate
             Button saveButton = new Button();
             saveButton.callback = file.Save;
 
-            Button loadButton = new Button();
+            Button loadButton = new Button(); 
             loadButton.callback = file.Load;
 
             saveButton.Click();     // output : 저장하기 합니다.

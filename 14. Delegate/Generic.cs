@@ -27,7 +27,7 @@ namespace _14._Delegate
             func = Minus;
         }
 
-
+         
         // <Action 델리게이트>
         // 반환형이 void 이며 매개변수를 지정한 델리게이트
         // Action<매개변수1, 매개변수2, ...>
