@@ -23,7 +23,7 @@ namespace _11._Array
             Console.WriteLine(str[1]);  // output : b
             Console.WriteLine(str[3]);  // output : d
 
-            // 단, 배열식으로 접근하여 문자를 변경 불가
+            // 단, 배열식으로 접근하여 문자를 변경 불가 
             // str1[1] = 'a';           // error : 문자열의 배열접근은 읽기전용
 
 

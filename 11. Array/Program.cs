@@ -26,7 +26,7 @@
             scores[4] = 50;                 // 4번째 요소 저장
 
             Console.WriteLine($"배열의 0번째 요소 : {scores[0]}");     // 0번째 요소 불러오기
-            Console.WriteLine($"배열의 1번째 요소 : {scores[1]}");     // 1번째 요소 불러오기
+            Console.WriteLine($"배열의 1번째 요소 : {scores[1]}");     // 1번째 요소 불러오기 
             Console.WriteLine($"배열의 2번째 요소 : {scores[2]}");     // 2번째 요소 불러오기
             Console.WriteLine($"배열의 3번째 요소 : {scores[3]}");     // 3번째 요소 불러오기
             Console.WriteLine($"배열의 4번째 요소 : {scores[4]}");     // 4번째 요소 불러오기
