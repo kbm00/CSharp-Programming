@@ -31,7 +31,7 @@
         void Main1()
         {
             Player player = new Player();
-            UI ui = new UI();
+            UI ui = new UI(); 
             SFX sfx = new SFX();
             VFX vfx = new VFX();
 

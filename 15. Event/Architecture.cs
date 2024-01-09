@@ -24,7 +24,7 @@ namespace _15._Event
 
             public class Player
             {
-                public int hp = 100;
+                public int hp = 100; 
 
                 public UI ui;
 
