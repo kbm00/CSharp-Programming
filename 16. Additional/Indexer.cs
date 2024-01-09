@@ -25,7 +25,7 @@ namespace _16._Additional
                 }
                 set
                 {
-                    if (index < 0 || index >= array.Length)
+                    if (index < 0 || index >= array.Length) 
                         throw new IndexOutOfRangeException();
                     else
                         array[index] = value;

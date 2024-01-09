@@ -28,7 +28,7 @@ namespace _16._Additional
                 this.x = x;
                 this.y = y;
             }
-
+             
             // 연산자 재정의를 통한 기본연산자 사용 구현
             public static Point operator +(Point left, Point right)
             {

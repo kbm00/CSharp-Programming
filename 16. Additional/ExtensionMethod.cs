@@ -20,7 +20,7 @@ namespace _16._Additional
 
         public static void Main1()
         {
-            string str = "hello world!";
+            string str = "hello world!"; 
 
             // 확장메서드를 통하여 기본 string에 없는 함수를 사용 가능
             Console.WriteLine(WordCount(str));      // 정적함수 사용

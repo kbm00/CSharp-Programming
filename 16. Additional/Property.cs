@@ -27,7 +27,7 @@ namespace _16._Additional
 
             // <속성 (Property)>
             // Get & Set 함수의 선언을 간소화
-            private int mp;
+            private int mp; 
             public int MP                       // mp 맴버변수의 Get & Set 속성
             {
                 get { return mp; }              // get : Get함수와 역할동일

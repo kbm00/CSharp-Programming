@@ -21,7 +21,7 @@ namespace _16._Additional
             public void Defense() { }
         }
 
-        // 아이템담당자 Player 소스
+        // 아이템담당자 Player 소스 
         public partial class Player
         {
             private int weight;

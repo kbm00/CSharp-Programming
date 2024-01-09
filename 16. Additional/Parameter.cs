@@ -25,7 +25,7 @@ namespace _16._Additional
         void AddStudent(string name, string home = "서울", int age = 8) { }   // 초기값이 있는 경우 미리 할당
         // void AddStudent(int age = 8, string home = "서울", string name) {} // error : 초기값이 있는 매개변수는 뒤부터 배치해야함
 
-        void Main2()
+        void Main2() 
         {
             AddStudent("철수");               // AddStudent("철수", "서울", 8);
             AddStudent("영희");               // AddStudent("영희", "서울", 8);

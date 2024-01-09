@@ -29,7 +29,7 @@ namespace _16._Additional
             {
                 Console.WriteLine(num);     // output : 10, 20, 30, 40, 50
             }
-        }
+        } 
 
         // <yield 형식>
         // yield return : 반복에서 다음을 제공

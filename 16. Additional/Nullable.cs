@@ -27,7 +27,7 @@ namespace _16._Additional
             Console.WriteLine(instance?.value);     // instance?.value는 null 반환
             instance?.Func();                       // instance?.Func()은 null 반환
 
-            instance = new NullClass();
+            instance = new NullClass(); 
             Console.WriteLine(instance?.value);     // instance?.value는 5 반환
             instance?.Func();                       // instance?.Func()은 함수 호출
 

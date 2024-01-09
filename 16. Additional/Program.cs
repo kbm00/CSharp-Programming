@@ -28,7 +28,7 @@
             int value = int.MaxValue;       // int 최대값
 
             String.Compare("abc", "abd");   // 문자열 비교
-
+             
             int[] values = { 5, 2, 1, 4, 3 };
             Array.Sort(values);             // 배열 정렬
             Array.Reverse(values);          // 배열 반전
