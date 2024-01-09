@@ -24,7 +24,7 @@
                 Console.WriteLine($"결과는 {result}");
             }
             else
-            {
+            { 
                 Console.WriteLine("0 으로 나눌 수 없습니다.");
             }
         }
