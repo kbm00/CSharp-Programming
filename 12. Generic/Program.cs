@@ -25,7 +25,7 @@
         {
             for (int i = 0; i < source.Length; i++) { output[i] = source[i]; }
         }
-
+         
         // 일반화를 이용하면 위 함수들과 다른 자료형의 함수 또한 호환할 수 있음
         public static void ArrayCopy<T>(T[] source, T[] output)
         {
