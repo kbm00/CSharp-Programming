@@ -25,7 +25,7 @@ namespace _09._OOP
 
             public void Move()
             {
-                Console.WriteLine($"{name} 이/가 움직입니다.");
+                Console.WriteLine($"{name} 이/가 움직입니다."); 
             }
 
             public void TakeHit(int damage)

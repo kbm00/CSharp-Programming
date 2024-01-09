@@ -22,7 +22,7 @@ namespace _09._OOP
         abstract class Item                 // 추상클래스 : 하나 이상의 추상함수를 포함하는 클래스
         {
             public abstract void Use();     // 추상함수 : 클래스에서 구현을 진행하지 않고 선언만 진행
-        }
+        } 
 
         class Potion : Item
         {

@@ -26,7 +26,7 @@ namespace _09._OOP
                 Console.WriteLine($"{name} 이/가 {speed} 의 속도로 이동합니다.");
             }
         }
-
+         
         class Truck : Car
         {
             public Truck()
