@@ -16,7 +16,7 @@
         // 클래스 내용으로는 변수와 함수가 포함 가능
         class Student
         {
-            public string name;
+            public string name; 
             public int math;
             public int english;
             public int science;
