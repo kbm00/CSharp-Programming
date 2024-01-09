@@ -12,7 +12,7 @@
         // <열거형 기본사용>
         // enum 열거형이름 { 멤버이름, 멤버이름, ... }
         enum Direction { Up, Down, Left, Right }    // 열거형 정의 : 열거형이름과 멤버이름 작성
-        void Main1()
+        void Main1() 
         {
             Direction dir = Direction.Up;           // 열거형 변수 : 열거형의 값을 가지는 변수
             switch (dir)
